@@ -16,13 +16,11 @@ This is why i need the power of llms together with vector databases, just so i c
 
 In the middle of the retreat i remember making up in my mind the voice of Burbea saying "how would it feel to be ok? how would it feel to be completely ok right now?" and how... ok that made me feel. Thats the other reason i want to talk with rob burbea, hes got a clear kind compassionate way of talking that is very soothing.
 
+<!--list-separator-->
 
-## Idea: {#idea}
+-  Idea:
 
--   Dont make it a meditation master but a way to help people find information better?
-
-
-## Worklog: {#worklog}
+    -   Dont make it a meditation master but a way to help people find information better?
 
 
 ## Setup {#setup}
