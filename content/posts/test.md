@@ -4,7 +4,17 @@ author = ["Andres Velasquez"]
 draft = false
 +++
 
-In Burbeas voice i heard "What would it feel to know that you are ok?", very clearly. I gotta make a meditation teacher i can actually use
+Rob Burbea, also known as the bubba buddha, was a great meditation teacher, among many other things. I am amazed by the way he tought insight practices as a coherent and logical system, rewriting classical teaching and writing them again from first principles. The clarity of his style, without fear of not being exactly similar to other, knowing well that the spiritual teachings can and should be improved is a very cool gift the Gods from the sky above give us, people trying to walk the spiritual path, or just people that want the magical power of feeling outlandisly good.
+
+He only published one book but this is not something bad. He encapsulated his teaching of the Jewel of the buddhist Crown emptiness in an awesome way. Lets not get sad, he has tons and tons of talks about lots of differnt topics. When i had listened to his metta and jhana retreat talks i got pleasurably surprised to remember that he had soulful practices, insight and imaginal practices. What a lucky fella i felt.
+
+And the thing is that theres a lot of intention from Rob to create talks for posteriority. He knew how valuable his teaching could be for people so he made sure they went out nicely in the recording. And he also made sure to create a fundation to keep his teachings. Like for example that foundation has transcriptions of all his talks.
+
+Guys, the thing is that i want a rob to help out with my meditation. Its known that having a diary of a skill helps with it, even if its weightlifting, lacrosse, whatever. Same thing is true for meditation. But what if i could also in my diary have access to a machine that can tell me about related things rob has said about what i am experimenting. For example: once in my 2 week jhana retreat i finally got a satable pity that lasted for 10 mins aroung. That was exiting because i had heard a lot about pity and i had felt it a lot but it never lasted, and for getting into a jhana the teaching is that you need to focus on a stable pity that has been there for a couple mins. Great! its staying here this vibrations, and i can spread it, but the thing is that it didnt feel pleadsurable, just like something neutral. The pity should feel good iremmeber hearign that from the talk, and i also remember people having trouble with the same thing as myself and rob giving some adivces but i didnt remember what was the adivce? It was impossible to find that in audio talks, and very gruesome to look for it in all of those documents from the transcription.
+
+This is why i need the power of llms together with vector databases, just so i can attain the sacred pleasures people that have been into jahanas have talked about.
+
+In the middle of the retreat i remember making up in my mind the voice of Burbea saying "how would it feel to be ok? how would it feel to be completely ok right now?" and how... ok that made me feel. Thats the other reason i want to talk with rob burbea, hes got a clear kind compassionate way of talking that is very soothing.
 
 
 ## Idea: {#idea}
