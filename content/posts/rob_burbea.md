@@ -1,7 +1,7 @@
 +++
 title = "RobApp: Meditating with LLMs or how to find relevant information"
 author = ["Velaz"]
-draft = true
+draft = false
 +++
 
 Rob Burbea, also known as the bubba buddha, was a great meditation teacher, among many other things. I am amazed by the way he tought insight practices as a coherent and logical system, rewriting classical teaching and writing them again from first principles. The clarity of his style, without fear of not being exactly similar to other, knowing well that the spiritual teachings can and should be improved is a very cool gift the Gods from the sky above give us, people trying to walk the spiritual path, or just people that want the magical power of feeling outlandisly good.
