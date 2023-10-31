@@ -4,7 +4,7 @@ author = ["Velaz"]
 draft = false
 +++
 
-{{< figure src="/ox-hugo/DiaoChan.jpg" >}}
+{{< figure align=center src="ox-hugo/DiaoChan.jpg" >}}
 
 So theres this girl i am down bad for...
 I am so lost in the fantasy of love that i have been running a todo list to prepare for her coming to stay in my city for a couple months. A todo list! me! an enemy of order and legibility! me! the one who had destroyed once and for all the tiranical order of organized project management from my mind!!!!
