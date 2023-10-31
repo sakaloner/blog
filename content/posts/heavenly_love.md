@@ -1,6 +1,6 @@
 +++
-title = "ensayo: deyza divinity"
-author = ["Andres Velasquez"]
+title = "Heavenly love, Human love"
+author = ["Velaz"]
 draft = false
 +++
 
